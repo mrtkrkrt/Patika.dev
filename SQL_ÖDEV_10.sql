@@ -12,3 +12,4 @@ RIGHT JOIN customer AS c ON p.customer_id = c.customer_id;
 -- 3)
 SELECT r.rental_id ,c.first_name, c.last_name FROM rental AS r
 FULL JOIN customer AS c ON c.customer_id= r.customer_id;
+ 
