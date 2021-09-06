@@ -1,0 +1,1 @@
+Not Ortalama Hesaplama
