@@ -16,5 +16,7 @@ public class Main {
                 count += 1;
             }
         }
+        double average = sum / count;
+        System.out.println("Ortalama : " + average);
     }
 }
