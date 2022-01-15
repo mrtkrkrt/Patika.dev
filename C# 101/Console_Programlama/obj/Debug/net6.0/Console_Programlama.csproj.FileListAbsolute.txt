@@ -1,0 +1,15 @@
+C:\Users\mrtkr\Desktop\C# 101\Console_Programlama\bin\Debug\net6.0\Console_Programlama.exe
+C:\Users\mrtkr\Desktop\C# 101\Console_Programlama\bin\Debug\net6.0\Console_Programlama.deps.json
+C:\Users\mrtkr\Desktop\C# 101\Console_Programlama\bin\Debug\net6.0\Console_Programlama.runtimeconfig.json
+C:\Users\mrtkr\Desktop\C# 101\Console_Programlama\bin\Debug\net6.0\Console_Programlama.dll
+C:\Users\mrtkr\Desktop\C# 101\Console_Programlama\bin\Debug\net6.0\ref\Console_Programlama.dll
+C:\Users\mrtkr\Desktop\C# 101\Console_Programlama\bin\Debug\net6.0\Console_Programlama.pdb
+C:\Users\mrtkr\Desktop\C# 101\Console_Programlama\obj\Debug\net6.0\Console_Programlama.csproj.AssemblyReference.cache
+C:\Users\mrtkr\Desktop\C# 101\Console_Programlama\obj\Debug\net6.0\Console_Programlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrtkr\Desktop\C# 101\Console_Programlama\obj\Debug\net6.0\Console_Programlama.AssemblyInfoInputs.cache
+C:\Users\mrtkr\Desktop\C# 101\Console_Programlama\obj\Debug\net6.0\Console_Programlama.AssemblyInfo.cs
+C:\Users\mrtkr\Desktop\C# 101\Console_Programlama\obj\Debug\net6.0\Console_Programlama.csproj.CoreCompileInputs.cache
+C:\Users\mrtkr\Desktop\C# 101\Console_Programlama\obj\Debug\net6.0\Console_Programlama.dll
+C:\Users\mrtkr\Desktop\C# 101\Console_Programlama\obj\Debug\net6.0\ref\Console_Programlama.dll
+C:\Users\mrtkr\Desktop\C# 101\Console_Programlama\obj\Debug\net6.0\Console_Programlama.pdb
+C:\Users\mrtkr\Desktop\C# 101\Console_Programlama\obj\Debug\net6.0\Console_Programlama.genruntimeconfig.cache
