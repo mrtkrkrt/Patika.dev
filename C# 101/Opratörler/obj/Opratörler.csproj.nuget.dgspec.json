@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mrtkr\\Documents\\GitHub\\Patika.dev\\C# 101\\Console_Programlama\\Console_Programlama.csproj": {}
+    "C:\\Users\\mrtkr\\Documents\\GitHub\\Patika.dev\\C# 101\\Opratörler\\Opratörler.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mrtkr\\Documents\\GitHub\\Patika.dev\\C# 101\\Console_Programlama\\Console_Programlama.csproj": {
+    "C:\\Users\\mrtkr\\Documents\\GitHub\\Patika.dev\\C# 101\\Opratörler\\Opratörler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mrtkr\\Documents\\GitHub\\Patika.dev\\C# 101\\Console_Programlama\\Console_Programlama.csproj",
-        "projectName": "Console_Programlama",
-        "projectPath": "C:\\Users\\mrtkr\\Documents\\GitHub\\Patika.dev\\C# 101\\Console_Programlama\\Console_Programlama.csproj",
+        "projectUniqueName": "C:\\Users\\mrtkr\\Documents\\GitHub\\Patika.dev\\C# 101\\Opratörler\\Opratörler.csproj",
+        "projectName": "Opratörler",
+        "projectPath": "C:\\Users\\mrtkr\\Documents\\GitHub\\Patika.dev\\C# 101\\Opratörler\\Opratörler.csproj",
         "packagesPath": "C:\\Users\\mrtkr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mrtkr\\Documents\\GitHub\\Patika.dev\\C# 101\\Console_Programlama\\obj\\",
+        "outputPath": "C:\\Users\\mrtkr\\Documents\\GitHub\\Patika.dev\\C# 101\\Opratörler\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mrtkr\\AppData\\Roaming\\NuGet\\NuGet.Config"

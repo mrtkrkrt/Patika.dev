@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Console_Programlama
-build_property.ProjectDir = C:\Users\mrtkr\Documents\GitHub\Patika.dev\C# 101\Console_Programlama\
+build_property.RootNamespace = Opratörler
+build_property.ProjectDir = c:\Users\mrtkr\Documents\GitHub\Patika.dev\C# 101\Opratörler\
